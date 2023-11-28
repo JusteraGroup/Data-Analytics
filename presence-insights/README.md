@@ -33,7 +33,7 @@ The Dashboard provides Presence Insights of the employees.
 *	Presence % by Date
 *	WFH % by Date
 *	SL % by Dat
-
+[HR Analyst Dashboard Report.pdf](https://github.com/JusteraGroup/HR-Analytics/files/13494077/HR.Analyst.Dashboard.Report.pdf)
 
 ## Insights
 * HR can manage multiple things after visualise the working preference of individual employee in numbers:
