@@ -1,4 +1,5 @@
 Power BI Demo Projects
+
 This repository contains a collection of demo projects showcasing various features and functionalities of Power BI.
 
 Table of Contents
