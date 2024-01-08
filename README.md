@@ -8,6 +8,7 @@ This repository contains a collection of demo projects showcasing various featur
 2. [Project 2: HR Analytics](#project-2-hr-analytics)
 
 ## Project 1: Ecommerce Dashboard
+![ECOMMERCE  SALES DASHBOARD](https://github.com/JusteraGroup/Data-Analytics/assets/85019577/34b4f8fd-6ffe-43ab-89e4-087e60fc8971)
 
 ### Description
 The Ecommerce Dashboard project focuses on visualizing and analyzing data from an online retail platform. It showcases sales trends, customer behavior, product performance, and revenue insights. The dashboard provides a comprehensive view of key performance indicators crucial for an ecommerce business.
