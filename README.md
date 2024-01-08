@@ -27,6 +27,7 @@ The `Ecommerce_Dashboard.pbix` file contains the Power BI report. Follow these s
 4. Interact with various visuals and filters to explore different aspects of the ecommerce data.
 
 ## Project 2: HR Analytics
+![HR Analyst Dashboard](https://github.com/JusteraGroup/Data-Analytics/assets/85019577/500805b5-010e-477a-8557-f88ca2dfb691)
 
 ### Description
 The HR Analytics project offers insights into human resources data, aiding in strategic decision-making for the HR department. It covers employee demographics, performance metrics, attrition rates, and workforce planning.
